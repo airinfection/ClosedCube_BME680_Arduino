@@ -1,6 +1,6 @@
 /**************************************************************************************
 
-This is example for ClosedCube HDC1080 Humidity and Temperature Sensor breakout booard
+This is example for ClosedCube BME680 Humidity,Temperature,Pressure and Gas Sensor breakout booard
 
 Initial Date: 15-Sep-2017
 
